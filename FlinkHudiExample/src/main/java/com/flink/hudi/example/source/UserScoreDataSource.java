@@ -1,4 +1,4 @@
-package com.flink.hudi.example;
+package com.flink.hudi.example.source;
 
 import org.apache.flink.api.java.tuple.Tuple3;
 import org.apache.flink.configuration.Configuration;
